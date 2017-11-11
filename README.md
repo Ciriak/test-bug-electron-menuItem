@@ -1,1 +1,4 @@
-test-bug-electron-menuItem
+```shell
+npm i
+electron app.js
+```
